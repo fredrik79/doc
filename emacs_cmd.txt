@@ -1,0 +1,35 @@
+
+
+** Moving
+   - C-v		Bläddra en skärmsida frammåt
+   - M-v		Bläddra en skärmsida bakåt
+   - C-l		Centrera texten kring cursorn
+
+   - C-n		En rad nedåt
+   - C-p		En rad uppåt
+   - C-f		Ett tecken frammåt
+   - C-b 		Ett tecken bakåt
+
+   - C-a		Till början av raden
+   - C-e		Till slutet av raden
+   
+** Redigera
+   - C-k		Radera raden
+   - M-k		Radera stycket
+   - C-d		delete
+   - C-y		yank
+
+   - C-x u		Ångra
+
+   - C-x C-s		Spara till fil
+   - C-x C-w		Spara till ny fil
+   - C-x s		Spara buffertar
+
+** Buffar
+   - C-x b		Byt buffer
+   - C-x X-b		Lista buffar
+
+** Etc
+   - C-g		Avsluta kommandot
+   - C-u <no#> tecken	Multiplicera tecken med no#
+   - C-x C-c   		Avsluta Emacs
