@@ -1,5 +1,4 @@
 
-
 ** Moving
    - C-v		Bläddra en skärmsida frammåt
    - M-v		Bläddra en skärmsida bakåt
@@ -28,6 +27,7 @@
 ** Buffar
    - C-x b		Byt buffer
    - C-x X-b		Lista buffar
+   - C-x k <buffer>  Döda buffer
 
 ** Etc
    - C-g		Avsluta kommandot
